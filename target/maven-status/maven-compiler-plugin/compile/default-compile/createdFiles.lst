@@ -1,0 +1,14 @@
+com\iteso\User.class
+com\iteso\Memberships\Normal.class
+com\iteso\Memberships\Platinum.class
+com\iteso\Memberships\Benefits\OneMonthGOT.class
+com\iteso\Memberships\Benefits\SixMonthsHBO.class
+com\iteso\Memberships\Benefits\FreeMoviesFifteenPerMonth.class
+com\iteso\Memberships\Benefits\OneYearSubscription.class
+com\iteso\Memberships\Benefits\FreeDocumentaries.class
+com\iteso\Memberships\Gold.class
+com\iteso\Memberships\Benefits\TwoMonthGOT.class
+com\iteso\Memberships\BenefitsClass.class
+com\iteso\Memberships\Benefits\FreeMoviesUnlimited.class
+com\iteso\Memberships\Benefits\UnlimitedSeries.class
+com\iteso\Memberships\Silver.class

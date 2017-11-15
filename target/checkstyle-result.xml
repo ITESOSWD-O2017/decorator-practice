@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\FreeDocumentaries.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\FreeMoviesFifteenPerMonth.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\FreeMoviesUnlimited.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\OneMonthGOT.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\OneYearSubscription.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\package-info.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\SixMonthsHBO.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\TwoMonthGOT.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\UnlimitedSeries.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\BenefitsClass.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Gold.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Normal.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\package-info.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Platinum.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Silver.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\package-info.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\User.java">
+</file>
+</checkstyle>
