@@ -1,10 +1,10 @@
 package com.iteso.Memberships;
-import com.iteso.User;
+import com.iteso.Membership;
 
 /**
  * Normal subscription.
  */
-public class Normal extends User {
+public class Normal extends Membership {
 
     /**
      * Constructor.

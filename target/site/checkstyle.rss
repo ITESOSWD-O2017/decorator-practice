@@ -25,7 +25,7 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2017</copyright>
     <item>
-      <title>File: 17,
+      <title>File: 35,
              Errors: 0,
              Warnings: 0,
              Infos: 0
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.FreeDocumentaries.java">com/iteso/Memberships/Benefits/FreeDocumentaries.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.OneYearSubscription.java">com/iteso/Memberships/Benefits/OneYearSubscription.java</a>
                 </td>
                 <td>
                   0
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.OneYearSubscription.java">com/iteso/Memberships/Benefits/OneYearSubscription.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.PlatinumUSA.java">com/iteso/Regions/RegionBenefits/PlatinumUSA.java</a>
                 </td>
                 <td>
                   0
@@ -88,20 +88,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.package-info.java">com/iteso/Memberships/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Platinum.java">com/iteso/Memberships/Platinum.java</a>
                 </td>
                 <td>
@@ -116,7 +102,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.TwoMonthGOT.java">com/iteso/Memberships/Benefits/TwoMonthGOT.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.NetflixEMEA.java">com/iteso/Regions/NetflixEMEA.java</a>
                 </td>
                 <td>
                   0
@@ -130,7 +116,49 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.User.java">com/iteso/User.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.GoldEMEA.java">com/iteso/Regions/RegionBenefits/GoldEMEA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.NetflixLATAM.java">com/iteso/Regions/NetflixLATAM.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.SilverUSA.java">com/iteso/Regions/RegionBenefits/SilverUSA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.SilverEMEA.java">com/iteso/Regions/RegionBenefits/SilverEMEA.java</a>
                 </td>
                 <td>
                   0
@@ -145,6 +173,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.FreeMoviesUnlimited.java">com/iteso/Memberships/Benefits/FreeMoviesUnlimited.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.GoldLATAM.java">com/iteso/Regions/RegionBenefits/GoldLATAM.java</a>
                 </td>
                 <td>
                   0
@@ -186,7 +228,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Gold.java">com/iteso/Memberships/Gold.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Netflix.java">com/iteso/Netflix.java</a>
                 </td>
                 <td>
                   0
@@ -200,7 +242,35 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.BenefitsClass.java">com/iteso/Memberships/BenefitsClass.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.NormalLATAM.java">com/iteso/Regions/RegionBenefits/NormalLATAM.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.PlatinumLATAM.java">com/iteso/Regions/RegionBenefits/PlatinumLATAM.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Gold.java">com/iteso/Memberships/Gold.java</a>
                 </td>
                 <td>
                   0
@@ -256,6 +326,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.NetflixUSA.java">com/iteso/Regions/NetflixUSA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.PlatinumEMEA.java">com/iteso/Regions/RegionBenefits/PlatinumEMEA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.SixMonthsHBO.java">com/iteso/Memberships/Benefits/SixMonthsHBO.java</a>
                 </td>
                 <td>
@@ -271,6 +369,160 @@ under the License.
                           <tr>
                 <td>
                   <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.FreeMoviesFifteenPerMonth.java">com/iteso/Memberships/Benefits/FreeMoviesFifteenPerMonth.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.FreeDocumentaries.java">com/iteso/Memberships/Benefits/FreeDocumentaries.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.package-info.java">com/iteso/Memberships/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.Benefits.TwoMonthGOT.java">com/iteso/Memberships/Benefits/TwoMonthGOT.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.package-info.java">com/iteso/Regions/RegionBenefits/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.package-info.java">com/iteso/Regions/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Membership.java">com/iteso/Membership.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.NormalEMEA.java">com/iteso/Regions/RegionBenefits/NormalEMEA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Memberships.BenefitsClass.java">com/iteso/Memberships/BenefitsClass.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.SilverLATAM.java">com/iteso/Regions/RegionBenefits/SilverLATAM.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.GoldUSA.java">com/iteso/Regions/RegionBenefits/GoldUSA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.iteso.Regions.RegionBenefits.NormalUSA.java">com/iteso/Regions/RegionBenefits/NormalUSA.java</a>
                 </td>
                 <td>
                   0

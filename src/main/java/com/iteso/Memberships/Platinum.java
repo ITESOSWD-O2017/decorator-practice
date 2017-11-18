@@ -1,10 +1,10 @@
 package com.iteso.Memberships;
-import com.iteso.User;
+import com.iteso.Membership;
 
 /**
  * Platinum subscription.
  */
-public class Platinum extends User {
+public class Platinum extends Membership {
     /**
      * Constructor.
      */

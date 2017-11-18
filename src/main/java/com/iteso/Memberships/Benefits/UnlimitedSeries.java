@@ -1,20 +1,20 @@
 package com.iteso.Memberships.Benefits;
+import com.iteso.Membership;
 import com.iteso.Memberships.BenefitsClass;
-import com.iteso.User;
 
 /**
  * Unlimited access to all series.
  */
 public class UnlimitedSeries extends BenefitsClass {
     /**
-     * User param.
+     * Membership param.
      */
-    private User moviesUser;
+    private Membership moviesMembership;
     /**
-     * @param user receives a user.
+     * @param membership receives a membership.
      */
-    public UnlimitedSeries(final User user) {
-        this.moviesUser = user;
+    public UnlimitedSeries(final Membership membership) {
+        this.moviesMembership = membership;
     }
 
     /**
@@ -23,8 +23,8 @@ public class UnlimitedSeries extends BenefitsClass {
      */
     @Override
     public final String getProperties() {
-        if (this.moviesUser != null) {
-            return this.moviesUser.getProperties() + " unlimited series,";
+        if (this.moviesMembership != null) {
+            return this.moviesMembership.getProperties() + " unlimited series,";
         } else {
             return "Please instantiate a membership.";
         }

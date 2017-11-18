@@ -1,36 +1,36 @@
 package com.iteso.Memberships.Benefits;
 
+import com.iteso.Membership;
 import com.iteso.Memberships.Gold;
-import com.iteso.User;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class TwoMonthGOTTest {
-    User user;
-    User userNull;
+    Membership membership;
+    Membership membershipNull;
     @Before
     public void setUp() throws Exception {
-        user = new Gold();
-        user = new TwoMonthGOT(user);
+        membership = new Gold();
+        membership = new TwoMonthGOT(membership);
     }
 
     @Test
     public void getTwoMonthsGOT() {
-        assertEquals("Gold membership, two months of game Of thrones,",user.getProperties());
+        assertEquals("Gold membership, two months of game Of thrones,", membership.getProperties());
     }
 
     @Test
     public void getTFreeMovies() {
-        user = new OneMonthGOT(user);
-        user = new UnlimitedSeries(user);
-        assertEquals("Gold membership, two months of game Of thrones, one month of game Of thrones, unlimited series,",user.getProperties());
+        membership = new OneMonthGOT(membership);
+        membership = new UnlimitedSeries(membership);
+        assertEquals("Gold membership, two months of game Of thrones, one month of game Of thrones, unlimited series,", membership.getProperties());
     }
 
     @Test
     public void checkNullUser() {
-        user = new OneYearSubscription(userNull);
-        assertEquals("Please instantiate a membership.",user.getProperties());
+        membership = new OneYearSubscription(membershipNull);
+        assertEquals("Please instantiate a membership.", membership.getProperties());
     }
 }

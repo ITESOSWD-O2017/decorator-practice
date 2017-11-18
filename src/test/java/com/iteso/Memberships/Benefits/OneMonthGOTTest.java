@@ -1,37 +1,37 @@
 package com.iteso.Memberships.Benefits;
 
+import com.iteso.Membership;
 import com.iteso.Memberships.Normal;
-import com.iteso.User;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class OneMonthGOTTest {
-    User user;
-    User userNull;
+    Membership membership;
+    Membership membershipNull;
     @Before
     public void setUp() throws Exception {
-        user = new Normal();
-        user = new OneMonthGOT(user);
+        membership = new Normal();
+        membership = new OneMonthGOT(membership);
     }
 
     @Test
     public void getFOneMonthGOT() {
-        assertEquals("Normal membership, one month of game Of thrones,",user.getProperties());
+        assertEquals("Normal membership, one month of game Of thrones,", membership.getProperties());
     }
 
     @Test
     public void getTwoMonthsGot() {
-        user = new TwoMonthGOT(user);
-        user = new FreeMoviesFifteenPerMonth(user);
-        assertEquals("Normal membership, one month of game Of thrones, two months of game Of thrones, free 15 movies per month,",user.getProperties());
+        membership = new TwoMonthGOT(membership);
+        membership = new FreeMoviesFifteenPerMonth(membership);
+        assertEquals("Normal membership, one month of game Of thrones, two months of game Of thrones, free 15 movies per month,", membership.getProperties());
     }
 
     @Test
     public void checkNullUser() {
-        user = new OneYearSubscription(userNull);
-        assertEquals("Please instantiate a membership.",user.getProperties());
+        membership = new OneYearSubscription(membershipNull);
+        assertEquals("Please instantiate a membership.", membership.getProperties());
     }
 
 }

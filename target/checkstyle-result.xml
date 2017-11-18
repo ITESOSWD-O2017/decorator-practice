@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.11.2">
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Membership.java">
+</file>
 <file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\FreeDocumentaries.java">
 </file>
 <file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\FreeMoviesFifteenPerMonth.java">
@@ -30,8 +32,42 @@
 </file>
 <file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Memberships\Silver.java">
 </file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Netflix.java">
+</file>
 <file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\package-info.java">
 </file>
-<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\User.java">
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\NetflixEMEA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\NetflixLATAM.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\NetflixUSA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\package-info.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\GoldEMEA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\GoldLATAM.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\GoldUSA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\NormalEMEA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\NormalLATAM.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\NormalUSA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\package-info.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\PlatinumEMEA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\PlatinumLATAM.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\PlatinumUSA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\SilverEMEA.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\SilverLATAM.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\decorator-practice\src\main\java\com\iteso\Regions\RegionBenefits\SilverUSA.java">
 </file>
 </checkstyle>

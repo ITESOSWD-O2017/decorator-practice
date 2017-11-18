@@ -1,22 +1,22 @@
 package com.iteso.Memberships;
 
-import com.iteso.User;
+import com.iteso.Membership;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class NormalTest {
-    User user;
+    Membership membership;
 
     @Before
     public void setUp() throws Exception {
-        user = new Normal();
+        membership = new Normal();
     }
 
     @Test
     public void checkMembership(){
-        assertEquals("Normal membership,",user.getProperties());
+        assertEquals("Normal membership,", membership.getProperties());
     }
 
 }

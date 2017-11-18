@@ -1,23 +1,23 @@
 package com.iteso.Memberships.Benefits;
 
 import com.iteso.Memberships.BenefitsClass;
-import com.iteso.User;
+import com.iteso.Membership;
 
 /**
  * Six months free HBO access through your laptop.
  */
 public class SixMonthsHBO extends BenefitsClass {
     /**
-     * User param.
+     * Membership param.
      */
-    private User moviesUser;
+    private Membership moviesMembership;
 
     /**
      * Constructor.
-     * @param user receives a user.
+     * @param membership receives a membership.
      */
-    public SixMonthsHBO(final User user) {
-        this.moviesUser = user;
+    public SixMonthsHBO(final Membership membership) {
+        this.moviesMembership = membership;
     }
 
     /**
@@ -25,8 +25,9 @@ public class SixMonthsHBO extends BenefitsClass {
      */
     @Override
     public final String getProperties() {
-        if (this.moviesUser != null) {
-            return this.moviesUser.getProperties() + " six months HBO free,";
+        if (this.moviesMembership != null) {
+            return this.moviesMembership.getProperties()
+                    + " six months HBO free,";
         } else {
             return "Please instantiate a membership.";
         }

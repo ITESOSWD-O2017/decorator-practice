@@ -1,9 +1,9 @@
 package com.iteso;
 
 /**
- * User abstract class.
+ * Membership abstract class.
  */
-public abstract class User {
+public abstract class Membership {
 
     /**Property to be set.
      */
@@ -28,4 +28,5 @@ public abstract class User {
     public final String sendProperty() {
         return this.propertyUser;
     }
-}
+
+ }

@@ -1,23 +1,23 @@
 package com.iteso.Memberships.Benefits;
 
+import com.iteso.Membership;
 import com.iteso.Memberships.BenefitsClass;
-import com.iteso.User;
 
 /**
  * Two months of GOT free.
  */
 public class TwoMonthGOT extends BenefitsClass {
     /**
-     * User param.
+     * Membership param.
      */
-    private User moviesUser;
+    private Membership moviesMembership;
 
     /**
      * Constructor.
-     * @param user receives a user.
+     * @param membership receives a membership.
      */
-    public TwoMonthGOT(final User user) {
-        this.moviesUser = user;
+    public TwoMonthGOT(final Membership membership) {
+        this.moviesMembership = membership;
     }
 
     /**
@@ -25,8 +25,8 @@ public class TwoMonthGOT extends BenefitsClass {
      */
     @Override
     public final String getProperties() {
-        if (this.moviesUser != null) {
-            return this.moviesUser.getProperties() + " two months "
+        if (this.moviesMembership != null) {
+            return this.moviesMembership.getProperties() + " two months "
                     + "of game Of thrones,";
         } else {
             return "Please instantiate a membership.";

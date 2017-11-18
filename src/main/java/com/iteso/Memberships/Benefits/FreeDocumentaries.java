@@ -1,22 +1,22 @@
 package com.iteso.Memberships.Benefits;
 
 import com.iteso.Memberships.BenefitsClass;
-import com.iteso.User;
+import com.iteso.Membership;
 
 /**
  * Access to all documentaries.
  */
 public class FreeDocumentaries extends BenefitsClass {
     /**
-     * User param.
+     * Membership param.
      */
-    private User moviesUser;
+    private Membership moviesMembership;
     /**
      * Constructor.
-     * @param user receives a user.
+     * @param membership receives a membership.
      */
-    public FreeDocumentaries(final User user) {
-        this.moviesUser = user;
+    public FreeDocumentaries(final Membership membership) {
+        this.moviesMembership = membership;
     }
 
     /**
@@ -24,8 +24,9 @@ public class FreeDocumentaries extends BenefitsClass {
      */
     @Override
     public final String getProperties() {
-        if (this.moviesUser != null) {
-            return this.moviesUser.getProperties() + " free unlimited movies,";
+        if (this.moviesMembership != null) {
+            return this.moviesMembership.getProperties()
+                    + " free documentaries,";
         } else {
             return "Please instantiate a membership.";
         }

@@ -1,21 +1,22 @@
 package com.iteso.Memberships.Benefits;
+import com.iteso.Membership;
 import com.iteso.Memberships.BenefitsClass;
-import com.iteso.User;
+
 /**
  * Unlimited movies per month.
  */
 public class FreeMoviesUnlimited extends BenefitsClass {
     /**
-     * User param.
+     * Membership param.
      */
-    private User moviesUser;
+    private Membership moviesMembership;
 
     /**
      * Constructor.
-     * @param user receives a user.
+     * @param membership receives a membership.
      */
-    public FreeMoviesUnlimited(final User user) {
-        this.moviesUser = user;
+    public FreeMoviesUnlimited(final Membership membership) {
+        this.moviesMembership = membership;
     }
 
     /**
@@ -23,8 +24,9 @@ public class FreeMoviesUnlimited extends BenefitsClass {
      */
     @Override
     public final String getProperties() {
-        if (this.moviesUser != null) {
-            return this.moviesUser.getProperties() + " free unlimited movies,";
+        if (this.moviesMembership != null) {
+            return this.moviesMembership.getProperties()
+                    + " free unlimited movies,";
         } else {
             return "Please instantiate a membership.";
         }

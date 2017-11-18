@@ -1,11 +1,11 @@
 package com.iteso.Memberships;
 
-import com.iteso.User;
+import com.iteso.Membership;
 
 /**
  * Benefits Abstract class.
  */
-public abstract class BenefitsClass extends User {
+public abstract class BenefitsClass extends Membership {
     /**
      * @return property.
      */

@@ -1,23 +1,22 @@
 package com.iteso.Memberships;
 
-import com.iteso.Memberships.Benefits.TwoMonthGOT;
-import com.iteso.User;
+import com.iteso.Membership;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class GoldTest {
-    User user;
+    Membership membership;
 
     @Before
     public void setUp() throws Exception {
-        user = new Gold();
+        membership = new Gold();
     }
 
     @Test
     public void checkMembership(){
-        assertEquals("Gold membership,",user.getProperties());
+        assertEquals("Gold membership,", membership.getProperties());
     }
 
 }

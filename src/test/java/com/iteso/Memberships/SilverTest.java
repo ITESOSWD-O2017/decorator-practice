@@ -1,22 +1,22 @@
 package com.iteso.Memberships;
 
-import com.iteso.User;
+import com.iteso.Membership;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class SilverTest {
-    User user;
+    Membership membership;
 
     @Before
     public void setUp() throws Exception {
-        user = new Silver();
+        membership = new Silver();
     }
 
     @Test
     public void checkMembership(){
-        assertEquals("Silver membership,",user.getProperties());
+        assertEquals("Silver membership,", membership.getProperties());
     }
 
 }

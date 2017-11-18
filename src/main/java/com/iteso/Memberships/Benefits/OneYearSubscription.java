@@ -1,22 +1,22 @@
 package com.iteso.Memberships.Benefits;
+import com.iteso.Membership;
 import com.iteso.Memberships.BenefitsClass;
-import com.iteso.User;
 
 /**
- * User subscription for netflix one year.
+ * Membership subscription for netflix one year.
  */
 public class OneYearSubscription extends BenefitsClass {
     /**
-     * User param.
+     * Membership param.
      */
-    private User moviesUser;
+    private Membership moviesMembership;
 
     /**
      * Constructor.
-     * @param user receives a user.
+     * @param membership receives a membership.
      */
-    public OneYearSubscription(final User user) {
-        this.moviesUser = user;
+    public OneYearSubscription(final Membership membership) {
+        this.moviesMembership = membership;
     }
 
     /**
@@ -24,8 +24,8 @@ public class OneYearSubscription extends BenefitsClass {
      */
     @Override
     public final String getProperties() {
-        if (this.moviesUser != null) {
-            return this.moviesUser.getProperties() + " netflix "
+        if (this.moviesMembership != null) {
+            return this.moviesMembership.getProperties() + " netflix "
                     + "subscription for one year,";
         } else {
             return "Please instantiate a membership.";

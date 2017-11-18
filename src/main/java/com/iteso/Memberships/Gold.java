@@ -1,10 +1,10 @@
 package com.iteso.Memberships;
-import com.iteso.User;
+import com.iteso.Membership;
 
 /**
  * Gold subscription.
  */
-public class Gold extends User {
+public class Gold extends Membership {
     /**
      * Constructor.
      */

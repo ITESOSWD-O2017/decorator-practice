@@ -1,10 +1,10 @@
 package com.iteso.Memberships;
-import com.iteso.User;
+import com.iteso.Membership;
 
 /**
  * Silver subscription.
  */
-public class Silver extends User {
+public class Silver extends Membership {
     /**
      * Constructor.
      */

@@ -1,6 +1,6 @@
 package com.iteso.Memberships.Benefits;
 import com.iteso.Memberships.BenefitsClass;
-import com.iteso.User;
+import com.iteso.Membership;
 
 /**
  * One month full access to HBO episodes.
@@ -8,15 +8,15 @@ import com.iteso.User;
 public class OneMonthGOT extends BenefitsClass {
 
     /**
-     * User param.
+     * Membership param.
      */
-    private User moviesUser;
+    private Membership moviesMembership;
     /**
      * Constructor.
-     * @param user receives a user.
+     * @param membership receives a membership.
      */
-    public OneMonthGOT(final User user) {
-        this.moviesUser = user;
+    public OneMonthGOT(final Membership membership) {
+        this.moviesMembership = membership;
     }
 
     /**
@@ -24,8 +24,8 @@ public class OneMonthGOT extends BenefitsClass {
      */
     @Override
     public final String getProperties() {
-        if (this.moviesUser != null) {
-            return this.moviesUser.getProperties() + " one month of "
+        if (this.moviesMembership != null) {
+            return this.moviesMembership.getProperties() + " one month of "
                     + "game Of thrones,";
         } else {
             return "Please instantiate a membership.";
