@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="461c097e-6d07-4da6-a0b9-e04595702d4c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/Memberships/Benefits/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/Memberships/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/Regions/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/Regions/RegionBenefits/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/generated-sources/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/generated-test-sources/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/generated-test-sources/test-annotations/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/css/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/collapsed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/expanded.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/external.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/logos/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/newwindow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/Memberships/Benefits/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/Memberships/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/Regions/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/Regions/RegionBenefits/Icon&#13;" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/decorator-practice.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Membership.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/AccessToShowers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/AccessToSteam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/FreeParking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/FreeUseOfTowels.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/MonthlyMassage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/PersonalInstructor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/ProteinShake.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/UseOfLocker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/BenefitsMembership.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Gold.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Platinum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Regular.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Silver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/Canada.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/Mexico.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldCanada.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldMexico.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldUSA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumCanada.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumMexico.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumUSA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularCanada.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularMexico.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularUSA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverCanada.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverMexico.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverUSA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/USA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/UniversalGym.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/AccessToShowersTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/AccessToSteamTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/FreeParkingTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/FreeUseOfTowelsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/MonthlyMassageTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/PersonalInstructorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/ProteinShakeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/UseOfLockerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/GoldTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/PlatinumTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/RegularTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/SilverTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/CanadaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/MexicoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldCanadaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldMexicoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldUSATest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumCanadaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumMexicoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumUSATest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularCanadaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularMexicoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularUSATest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverCanadaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverMexicoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverUSATest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/USATest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/checkstyle-checker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/cpd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/java-basic.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/java-empty.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/java-imports.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/java-unnecessary.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/java-unusedcode.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pmd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/checkstyle.rss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/css/maven-base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/css/maven-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/dependencies.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/dependency-convergence.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/findbugs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/pmd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/project-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/project-reports.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/project-summary.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Canada.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/Canada.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>property</find>
+      <find>towelsMembership</find>
+      <find>steam</find>
+      <find>massage</find>
+      <find>parking</find>
+      <find>shake</find>
+      <find>Mexico</find>
+      <find>strategy</find>
+      <find>canada</find>
+      <find>Canada</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>membership</replace>
+      <replace>showers</replace>
+      <replace>steam</replace>
+      <replace>massage</replace>
+      <replace>parking</replace>
+      <replace>locker</replace>
+      <replace>shake</replace>
+      <replace>instructor</replace>
+      <replace>Canada</replace>
+      <replace>decorator</replace>
+      <replace>mexico</replace>
+      <replace>USA</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Silver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/package-info.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/AccessToShowersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/FreeParking.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/AccessToSteamTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/FreeUseOfTowelsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/FreeParkingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/MonthlyMassage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/PersonalInstructor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/MonthlyMassageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/PersonalInstructorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/ProteinShake.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/ProteinShakeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/UseOfLockerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/UseOfLocker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/FreeUseOfTowels.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/GoldTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/PlatinumTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/RegularTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Regular.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/SilverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/Mexico.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/USA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldCanada.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldCanadaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldMexico.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldUSA.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldUSATest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumCanadaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumCanada.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumMexico.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumUSA.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldMexicoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumMexicoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumUSATest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularCanada.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularUSA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverCanada.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverMexico.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverUSA.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularCanadaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularMexicoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularMexico.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularUSATest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverCanadaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverMexicoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverUSATest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/CanadaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/MexicoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/Regions/USATest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Regions/Canada.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+              <item name="Regions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decorator-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mycompany.Regions.RegionBenefits" />
+      <recent name="com.mycompany.Regions" />
+      <recent name="com.mycompany.Memberships" />
+      <recent name="com.mycompany.Memberships.Benefits" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mycompany" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mycompany.Regions" />
+      <recent name="com.mycompany.Regions.RegionBenefits" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.USATest.checkNull">
+    <configuration name="CanadaTest.checkNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.Regions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="decorator-practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycompany.Regions" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.Regions.CanadaTest" />
+      <option name="METHOD_NAME" value="checkNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MexicoTest.checkNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.Regions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="decorator-practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycompany.Regions" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.Regions.MexicoTest" />
+      <option name="METHOD_NAME" value="checkNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SilverMexicoTest.MexicoGold" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.Regions.RegionBenefits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="decorator-practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycompany.Regions.RegionBenefits" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.Regions.RegionBenefits.SilverMexicoTest" />
+      <option name="METHOD_NAME" value="MexicoGold" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SilverUSATest.USAGold" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.Regions.RegionBenefits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="decorator-practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycompany.Regions.RegionBenefits" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.Regions.RegionBenefits.SilverUSATest" />
+      <option name="METHOD_NAME" value="USAGold" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="USATest.checkNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.Regions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="decorator-practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycompany.Regions" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.Regions.USATest" />
+      <option name="METHOD_NAME" value="checkNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SilverMexicoTest.MexicoGold" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SilverUSATest.USAGold" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CanadaTest.checkNull" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MexicoTest.checkNull" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.USATest.checkNull" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.USATest.checkNull" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MexicoTest.checkNull" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CanadaTest.checkNull" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SilverUSATest.USAGold" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SilverMexicoTest.MexicoGold" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="461c097e-6d07-4da6-a0b9-e04595702d4c" name="Default" comment="" />
+      <created>1511121638950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511121638950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CanadaTest_checkNull - 2017.11.21 at 13h 23m 47s.xml">
+      <configuration name="CanadaTest.checkNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MexicoTest_checkNull - 2017.11.21 at 13h 24m 31s.xml">
+      <configuration name="MexicoTest.checkNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegularUSATest_USAGold - 2017.11.21 at 13h 19m 24s.xml">
+      <configuration name="RegularUSATest.USAGold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SilverCanadaTest_CanadaGold - 2017.11.21 at 13h 19m 46s.xml">
+      <configuration name="SilverCanadaTest.CanadaGold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SilverCanadaTest_CanadaGold - 2017.11.21 at 13h 20m 04s.xml">
+      <configuration name="SilverCanadaTest.CanadaGold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SilverMexicoTest_MexicoGold - 2017.11.21 at 13h 20m 27s.xml">
+      <configuration name="SilverMexicoTest.MexicoGold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SilverMexicoTest_MexicoGold - 2017.11.21 at 13h 20m 39s.xml">
+      <configuration name="SilverMexicoTest.MexicoGold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SilverUSATest_USAGold - 2017.11.21 at 13h 21m 13s.xml">
+      <configuration name="SilverUSATest.USAGold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SilverUSATest_USAGold - 2017.11.21 at 13h 21m 27s.xml">
+      <configuration name="SilverUSATest.USAGold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="USATest_checkNull - 2017.11.21 at 13h 24m 56s.xml">
+      <configuration name="USATest.checkNull" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1058" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/MonthlyMassageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/PersonalInstructorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/ProteinShake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="78" lean-forward="false" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/UseOfLocker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="64" lean-forward="false" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/UseOfLockerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="55" lean-forward="false" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/ProteinShakeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/FreeUseOfTowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/RegularTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#347#348#0" expanded="false" />
+            <element signature="e#425#426#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/SilverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#345#346#0" expanded="false" />
+            <element signature="e#422#423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/PlatinumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#349#350#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/Mexico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/USA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/UniversalGym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Regular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#207#208#0" expanded="false" />
+            <element signature="e#258#259#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Gold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#198#199#0" expanded="false" />
+            <element signature="e#246#247#0" expanded="false" />
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#342#343#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/junit/framework/TestSuite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="e#2322#2323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/junit/framework/TestCase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding>
+            <element signature="e#2691#2692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/BenefitsMembership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Membership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+          <folding>
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Memberships/Benefits/AccessToSteam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldCanada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldMexico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/GoldUSA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="38" column="53" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/GoldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Memberships/Benefits/AccessToShowersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumCanada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumMexico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumUSA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumCanadaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumMexicoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="98" lean-forward="false" selection-start-line="26" selection-start-column="98" selection-end-line="26" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/PlatinumUSATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="113" lean-forward="false" selection-start-line="26" selection-start-column="113" selection-end-line="26" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularCanada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularUSA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverCanada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="56" lean-forward="true" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverMexico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/SilverUSA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularCanadaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="68" lean-forward="false" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldMexicoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/RegionBenefits/RegularMexico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldUSATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/GoldCanadaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverCanadaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="81" lean-forward="false" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularMexicoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverMexicoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="81" lean-forward="false" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/RegularUSATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/RegionBenefits/SilverUSATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="78" lean-forward="false" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/MexicoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/CanadaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/Regions/USATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Regions/Canada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
