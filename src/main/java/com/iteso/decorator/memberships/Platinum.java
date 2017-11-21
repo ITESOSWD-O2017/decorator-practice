@@ -7,11 +7,20 @@ import com.iteso.decorator.Membership;
  */
 public class Platinum extends Membership {
 
+    /** Membership cost. */
+    static final double MEMBERSHIP_COST = 25.0;
+
+    /** constructor. */
     public Platinum() {
-        description = "Platinum membership";
     }
+
+    /** @return String. */
+    public final String getDescription() {
+        return "Platinum membership";
+    }
+
     /** @return double*/
     public final double cost() {
-        return 25;
+        return MEMBERSHIP_COST;
     }
 }

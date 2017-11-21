@@ -5,17 +5,24 @@ package com.iteso.decorator;
  */
 public abstract class Membership {
 
+    /** subscriber. */
+    private String subscriber;
+
+    /** constructor. */
     public Membership() {
         super();
     }
 
     /** @return String */
-    public String description = "Any membership";
+    public final String getSubscriber() {
+        return subscriber;
+    }
 
     /** @return String */
-    public String getDescription() {
-        return description;
-    }
+    private String description = "";
+
+    /** @return String */
+    public abstract String getDescription();
 
     /** @param d */
     public Membership(final String d) {
@@ -24,5 +31,13 @@ public abstract class Membership {
 
     /** @return double */
     public abstract double cost();
+
+    /** void printCredential. */
+    public final void printCredential() {
+        System.out.print("Typing " + subscriber);
+        System.out.println("Adding photo...");
+        System.out.println("Adding number of subscriber...");
+        System.out.println("Printing...");
+    }
 
 }

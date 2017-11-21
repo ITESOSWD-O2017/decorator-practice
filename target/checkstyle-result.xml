@@ -3,7 +3,6 @@
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\benefits\Discount.java">
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\benefits\lessons\package-info.java">
-<error line="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\benefits\lessons\Yoga.java">
 </file>
@@ -14,7 +13,6 @@
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\benefits\Massage.java">
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\benefits\package-info.java">
-<error line="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\benefits\Partner.java">
 </file>
@@ -23,33 +21,55 @@
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\benefits\TanningBed.java">
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\Benefits.java">
-<error line="8" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\factories\EUMembershipStore.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\factories\LAMembershipStore.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\factories\package-info.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\factories\USAMembershipStore.java">
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\Membership.java">
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\Bronze.java">
-<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
-<error line="16" column="16" severity="error" message="&apos;10.0&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\Gold.java">
-<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
-<error line="16" column="16" severity="error" message="&apos;20&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\package-info.java">
-<error line="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\Platinum.java">
-<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
-<error line="15" column="16" severity="error" message="&apos;25&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\EUBronze.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\EUGold.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\EUPlatinum.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\EUSilver.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\LABronze.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\LAGold.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\LAPlatinum.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\LASilver.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\package-info.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\USABronze.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\USAGold.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\USAPlatinum.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\regions_memberships\USASilver.java">
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\memberships\Silver.java">
-<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
-<error line="15" column="16" severity="error" message="&apos;15&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
 </file>
-<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\MyMembership.java">
-<error line="10" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\MembershipStore.java">
 </file>
 <file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\decorator-practice\src\main\java\com\iteso\decorator\package-info.java">
-<error line="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
 </checkstyle>

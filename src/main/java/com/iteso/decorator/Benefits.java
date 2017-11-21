@@ -5,6 +5,7 @@ package com.iteso.decorator;
  */
 public abstract class Benefits extends Membership {
 
+    /** @return string. */
     public abstract String getDescription();
 
 }
