@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>decorator-practice - Checkstyle report</title>
+    <link>http://maven.apache.org</link>
+    <description>decorator-practice - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2017</copyright>
+    <item>
+      <title>File: 35,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://maven.apache.org/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://maven.apache.org/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.GoldCanada.java">com/mycompany/Regions/RegionBenefits/GoldCanada.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.package-info.java">com/mycompany/Memberships/Benefits/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.Canada.java">com/mycompany/Regions/Canada.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.AccessToShowers.java">com/mycompany/Memberships/Benefits/AccessToShowers.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.PersonalInstructor.java">com/mycompany/Memberships/Benefits/PersonalInstructor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.UseOfLocker.java">com/mycompany/Memberships/Benefits/UseOfLocker.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.AccessToSteam.java">com/mycompany/Memberships/Benefits/AccessToSteam.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.SilverUSA.java">com/mycompany/Regions/RegionBenefits/SilverUSA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Platinum.java">com/mycompany/Memberships/Platinum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.FreeUseOfTowels.java">com/mycompany/Memberships/Benefits/FreeUseOfTowels.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.RegularCanada.java">com/mycompany/Regions/RegionBenefits/RegularCanada.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.package-info.java">com/mycompany/Regions/RegionBenefits/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.package-info.java">com/mycompany/Regions/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Silver.java">com/mycompany/Memberships/Silver.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.BenefitsMembership.java">com/mycompany/Memberships/BenefitsMembership.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.MonthlyMassage.java">com/mycompany/Memberships/Benefits/MonthlyMassage.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.PlatinumCanada.java">com/mycompany/Regions/RegionBenefits/PlatinumCanada.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.RegularUSA.java">com/mycompany/Regions/RegionBenefits/RegularUSA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.PlatinumMexico.java">com/mycompany/Regions/RegionBenefits/PlatinumMexico.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.SilverMexico.java">com/mycompany/Regions/RegionBenefits/SilverMexico.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.SilverCanada.java">com/mycompany/Regions/RegionBenefits/SilverCanada.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.GoldUSA.java">com/mycompany/Regions/RegionBenefits/GoldUSA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.ProteinShake.java">com/mycompany/Memberships/Benefits/ProteinShake.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.RegularMexico.java">com/mycompany/Regions/RegionBenefits/RegularMexico.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.PlatinumUSA.java">com/mycompany/Regions/RegionBenefits/PlatinumUSA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.package-info.java">com/mycompany/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.UniversalGym.java">com/mycompany/UniversalGym.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.package-info.java">com/mycompany/Memberships/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Regular.java">com/mycompany/Memberships/Regular.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Membership.java">com/mycompany/Membership.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.USA.java">com/mycompany/Regions/USA.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Benefits.FreeParking.java">com/mycompany/Memberships/Benefits/FreeParking.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.Mexico.java">com/mycompany/Regions/Mexico.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Regions.RegionBenefits.GoldMexico.java">com/mycompany/Regions/RegionBenefits/GoldMexico.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.Memberships.Gold.java">com/mycompany/Memberships/Gold.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

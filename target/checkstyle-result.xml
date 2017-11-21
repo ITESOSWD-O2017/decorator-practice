@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/GoldCanada.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/RegularMexico.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/SilverMexico.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/GoldUSA.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/SilverUSA.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumCanada.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumUSA.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/GoldMexico.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/RegularUSA.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/PlatinumMexico.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/package-info.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/RegularCanada.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/RegionBenefits/SilverCanada.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/USA.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/Canada.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/Mexico.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Regions/package-info.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Regular.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Platinum.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/AccessToSteam.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/PersonalInstructor.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/AccessToShowers.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/ProteinShake.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/FreeParking.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/FreeUseOfTowels.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/UseOfLocker.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/MonthlyMassage.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Benefits/package-info.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Silver.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/package-info.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/Gold.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Memberships/BenefitsMembership.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/UniversalGym.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/Membership.java">
+</file>
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/decorator-practice/src/main/java/com/mycompany/package-info.java">
+</file>
+</checkstyle>
