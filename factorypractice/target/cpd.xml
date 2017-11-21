@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="39" tokens="247">
+      <file line="10"
+            path="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Factory\MemEU.java"/>
+      <file line="12"
+            path="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Factory\MemUS.java"/>
+      <codefragment><![CDATA[            membresia= new ContentCreator(membresia);
+            membresia=new Exclusivo(membresia);
+            membresia=new Video4K(membresia);
+            membresia=new VariosDispositivos(membresia);
+            membresia=new Personalizacion(membresia);
+            membresia=new SinAnuncios(membresia);
+            membresia= new Streaming(membresia);
+            membresia=new SubirVideos(membresia);
+        }
+        else if(membresia.getClass()==Oro.class){
+            membresia=new Exclusivo(membresia);
+            membresia=new Video4K(membresia);
+            membresia=new VariosDispositivos(membresia);
+            membresia=new Personalizacion(membresia);
+            membresia=new SinAnuncios(membresia);
+            membresia= new Streaming(membresia);
+            membresia=new SubirVideos(membresia);
+        }
+        else if(membresia.getClass()==Plata.class){
+            membresia=new VariosDispositivos(membresia);
+            membresia=new Personalizacion(membresia);
+            membresia=new SinAnuncios(membresia);
+            membresia= new Streaming(membresia);
+            membresia=new SubirVideos(membresia);
+
+        }
+        else if(membresia.getClass()==Bronce.class){
+            membresia=new Personalizacion(membresia);
+            membresia=new SinAnuncios(membresia);
+            membresia= new Streaming(membresia);
+            membresia=new SubirVideos(membresia);
+        }
+        else if(membresia.getClass()==Cobre.class){
+            membresia= new Streaming(membresia);
+            membresia=new SubirVideos(membresia);
+        }
+        return membresia;
+    }
+}]]></codefragment>
+   </duplication>
+</pmd-cpd>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\ContentCreator.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\Exclusivo.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\Merch.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\package-info.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\Personalizacion.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\SinAnuncios.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\Streaming.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\SubirVideos.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\VariosDispositivos.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Beneficios\Video4K.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\BenefitsDecorator.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Factory\MemEU.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Factory\MemFact.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Factory\MemLA.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Factory\MemUS.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Factory\package-info.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Membresia.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Membresias\Bronce.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Membresias\Cobre.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Membresias\Oro.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Membresias\package-info.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Membresias\Plata.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\Membresias\Platinum.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\package-info.java">
+</file>
+<file name="C:\Users\Eduardo\Documents\Iteso\Quinto_Semestre\Diseño\Repositorios\factorypractice\src\main\java\decorator\TuMem.java">
+</file>
+</checkstyle>
