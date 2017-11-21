@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="24" tokens="104">
+      <file line="15"
+            path="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/Regions/NetflixEU.java"/>
+      <file line="14"
+            path="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/Regions/NetflixLA.java"/>
+      <codefragment><![CDATA[public class NetflixEU extends Netflix {
+
+    /**
+     * Descripcion.
+     * @param type Algo
+     * @return Retorna una membresía
+     */
+    public final Membership createMembershipFactory(final String type) {
+        Membership membership;
+
+        if (type.equals("PantallaSD1")) {
+            membership = new PantallaSD1();
+        } else if (type.equals("PantallaHD1")) {
+            membership = new PantallaHD1();
+        } else if (type.equals("PantallasHD2")) {
+            membership = new PantallasHD2();
+        } else if (type.equals("PantallasHD4")) {
+            membership = new PantallasHD4();
+        } else {
+            membership = null;
+        }
+
+        if (membership != null) {
+            membership.setBenefit(new NoRegionBlocker());]]></codefragment>
+   </duplication>
+</pmd-cpd>

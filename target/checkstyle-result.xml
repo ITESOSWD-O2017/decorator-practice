@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/package-info.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/memberships/package-info.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/memberships/PantallaHD1.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/memberships/Benefits.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/memberships/PantallaSD1.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/memberships/PantallasHD4.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/memberships/PantallasHD2.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/Membership.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/Netflix.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/Pantalla2.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/package-info.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/HD4K.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/SD.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/Pantalla1.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/Pantalla4.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/NoRegionBlocker.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/HD.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/benefits/Recomendations.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/Regions/NetflixLA.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/Regions/package-info.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/Regions/NetflixUSA.java">
+</file>
+<file name="/home/fernando/Documents/Diseño de software/decorator-practice/src/main/java/com/iteso/Regions/NetflixEU.java">
+</file>
+</checkstyle>
