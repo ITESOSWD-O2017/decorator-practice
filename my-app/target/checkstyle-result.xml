@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\App.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\Boletos2x1.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\ComboGratis.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\Cortesia3D.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\CortesiaNormal.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\CortesiaVIP.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\Nachos2x1.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\package-info.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\PalomitasGratis.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\benefits\PasePreferencial.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\Benefits.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\factories\BlackFactory.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\factories\FanFactory.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\factories\GoldFactory.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\factories\package-info.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\factories\PlataFactory.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\Membership.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\memberships\Black.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\memberships\Fan.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\memberships\Gold.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\memberships\package-info.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\memberships\Plata.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\MemberStore.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\package-info.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\decorator-practice\my-app\src\main\java\com\mycompany\app\User.java">
+</file>
+</checkstyle>
