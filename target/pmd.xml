@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="5.6.1" timestamp="2017-11-20T22:26:01.271">
+<pmd version="5.6.1" timestamp="2017-11-21T10:31:23.567">
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\Control\SetUpPlan.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="Control" class="SetUpPlan" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'TiposMembresia.MemBasic'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="Control" class="SetUpPlan" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'factories.MembresiaLocal'
+</violation>
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\TiposMembresia\MemLive.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="30" rule="UnusedImports" ruleset="Import Statements" package="TiposMembresia" class="MemLive" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'Beneficios.CanalesLive'
+</violation>
+</file>
 </pmd>

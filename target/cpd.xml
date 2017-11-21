@@ -1,2 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd-cpd/>
+<pmd-cpd>
+   <duplication lines="22" tokens="166">
+      <file line="6"
+            path="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\AmericaStore.java"/>
+      <file line="6"
+            path="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\MxStore.java"/>
+      <codefragment><![CDATA[public class AmericaStore extends MembresiaLocal{
+    public Membresia createMemFactory(Membresia membresia) {
+        if (membresia.getClass()== MemBasic.class){
+            membresia = new CanalesRec(membresia);
+            membresia = new CanalesRegulares(membresia);
+            return membresia;
+        } else if(membresia.getClass()== MemKids.class){
+            membresia = new CanalesKids(membresia);
+            membresia = new CanalesNaturales(membresia);
+            membresia = new CanalesLive(membresia);
+            return membresia;
+        } else if(membresia.getClass()== MemLive.class){
+            membresia = new CanalesKids(membresia);
+            membresia = new CanalesLive(membresia);
+            return membresia;
+        } else if(membresia.getClass()== MemPlatinum.class){
+            membresia = new CanalesKids(membresia);
+            membresia = new CanalesNaturales(membresia);
+            membresia = new CanalesLive(membresia);
+            membresia = new CanalesHBO(membresia);
+            membresia = new CanalesTeleExtra(membresia);
+            membresia = new CanalesRec(membresia);]]></codefragment>
+   </duplication>
+</pmd-cpd>

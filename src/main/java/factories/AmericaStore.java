@@ -1,18 +1,56 @@
 package factories;
 
-import TiposMembresia.Membresia;
 
-public class AmericaStore extends MembresiaLocal{
-    @Override
-    protected Membresia createMemFactory(String tipo) {
-        if (tipo.equals("basica"))
-            return new BasicaUSA();
-        else if (tipo.equals("kids") )
-            return new KidsUSA();
-        else if (tipo.equals("live"))
-            return new LiveUSA();
-        else if (tipo.equals("platino") )
-            return new PlatUSA();
-        else return null;
+import beneficios.CanalesKids;
+import beneficios.CanalesNaturales;
+import beneficios.CanalesRec;
+import beneficios.CanalesLive;
+import beneficios.CanalesRegulares;
+import tiposmembresia.MemBasic;
+import tiposmembresia.MemKids;
+import tiposmembresia.MemLive;
+import tiposmembresia.Membresia;
+import tiposmembresia.MemPlatinum;
+import beneficios.CanalesHBO;
+import beneficios.CanalesTeleExtra;
+
+/**
+ *
+ */
+public class AmericaStore extends MembresiaLocal {
+    /**
+     *
+     * @param membresia This is a parameter
+     * @return ok
+     */
+    public final Membresia createMemFactory(final Membresia membresia) {
+        if (membresia.getClass() == MemBasic.class) {
+            Membresia temp = membresia;
+            temp = new CanalesRec(membresia);
+            temp = new CanalesRegulares(membresia);
+            return temp;
+        } else if (membresia.getClass() == MemKids.class) {
+            Membresia temp = membresia;
+            temp = new CanalesKids(membresia);
+            temp = new CanalesNaturales(membresia);
+            temp = new CanalesLive(membresia);
+            return temp;
+        } else if (membresia.getClass() == MemLive.class) {
+            Membresia temp = membresia;
+            temp = new CanalesKids(membresia);
+            temp = new CanalesLive(membresia);
+            return temp;
+        } else if (membresia.getClass() == MemPlatinum.class) {
+            Membresia temp = membresia;
+            temp = new CanalesKids(membresia);
+            temp = new CanalesNaturales(membresia);
+            temp = new CanalesLive(membresia);
+            temp = new CanalesHBO(membresia);
+            temp = new CanalesTeleExtra(membresia);
+            temp = new CanalesRec(membresia);
+            return temp;
+        } else {
+            return null;
+        }
     }
 }

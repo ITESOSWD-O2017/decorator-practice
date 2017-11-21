@@ -1,3 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.11.2">
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\CanalesCine.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\CanalesHBO.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\CanalesKids.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\CanalesLive.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\CanalesNaturales.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\CanalesRec.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\CanalesRegulares.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\CanalesTeleExtra.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\package-info.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\beneficios\TipoBeneficio.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\control\package-info.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\control\SetUpPlan.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\AmericaStore.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\MembresiaLocal.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\MxStore.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\package-info.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\UKStore.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\tiposmembresia\MemBasic.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\tiposmembresia\Membresia.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\tiposmembresia\MemKids.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\tiposmembresia\MemLive.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\tiposmembresia\MemPlatinum.java">
+</file>
+<file name="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\tiposmembresia\package-info.java">
+</file>
 </checkstyle>
