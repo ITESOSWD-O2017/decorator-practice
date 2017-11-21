@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\BronceEU.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\BronceMEX.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\BronceUSA.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\DiamondEU.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\DiamondMEX.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\DiamondUSA.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\GoldEU.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\GoldMEX.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\GoldUSA.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\package-info.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\SilverEU.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\SilverMEX.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\FactoriesBenefits\SilverUSA.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\package-info.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\SpotifyEU.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\SpotifyMEX.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Factories\SpotifyUSA.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Membership.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\ExclusiveArtists.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\ExclusivePlaylists.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\FreeMonths.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\MorePlaylists.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\NoWifiNeeded.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\package-info.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\ShareSongs.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\SongsStoraged.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\Benefits\UnlimitedDownloads.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\BenefitsClass.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\BronceMembership.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\DiamondMembership.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\GoldMembership.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\package-info.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Memberships\SilverMembership.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\package-info.java">
+</file>
+<file name="C:\Users\JUAN CARLOS\Documents\Ingeniería en Sistemas Computacionales\7mo Semestre\Diseño de software\Repositorios\decorator-practice\src\main\java\com\iteso\Spotify.java">
+</file>
+</checkstyle>
