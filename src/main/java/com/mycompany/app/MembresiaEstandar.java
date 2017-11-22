@@ -1,12 +1,27 @@
 package com.mycompany.app;
 
+/**
+ * Membresia estandar.
+ */
 public class MembresiaEstandar extends Membresia {
 
-    public MembresiaEstandar () {
-        this.description = "Membresía estándar";
+    /**
+     * Constante costo.
+     */
+    private static final int COST = 109;
+
+    /**
+     * Constructor default.
+     */
+    public MembresiaEstandar() {
+        setDescription("Membresía estándar");
     }
 
-    public double cost() {
-        return 109.0;
+    /**
+     * Costo de la membresia estandar.
+     * @return double costo.
+     */
+    public final double cost() {
+        return COST;
     }
 }

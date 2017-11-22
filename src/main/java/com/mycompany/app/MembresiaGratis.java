@@ -1,13 +1,28 @@
 package com.mycompany.app;
 
+/**
+ * Membresia gratis.
+ */
 public class MembresiaGratis extends Membresia {
 
-    public MembresiaGratis () {
-        this.description = "Membresia gratis";
+    /**
+     * Constante costo.
+     */
+    private static final int COST = 0;
+
+    /**
+     * Constructor default.
+     */
+    public MembresiaGratis() {
+        setDescription("Membresia gratis");
     }
 
-    public double cost() {
-        return 0;
+    /**
+     * Costo de la membresia gratis.
+     * @return double Costo 0.
+     */
+    public final double cost() {
+        return COST;
     }
 
 }

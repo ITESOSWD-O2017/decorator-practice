@@ -3,19 +3,42 @@ package com.mycompany.app.beneficios;
 import com.mycompany.app.Beneficios;
 import com.mycompany.app.Membresia;
 
+/**
+ * Resolucion ultra.
+ */
 public class ResolucionUltra extends Beneficios {
 
-    Membresia membresia;
+    /**
+     * Constante costo.
+     */
+    private static final int COST = 30;
 
-    public ResolucionUltra (Membresia inMembresia) {
+    /**
+     * Atributo membresia.
+     */
+    private Membresia membresia;
+
+    /**
+     * Constructor default.
+     * @param inMembresia membresia.
+     */
+    public ResolucionUltra(final Membresia inMembresia) {
         this.membresia = inMembresia;
     }
 
-    public String getDescription() {
+    /**
+     * Getter descripcion.
+     * @return descripcion.
+     */
+    public final String getDescription() {
         return membresia.getDescription() + ", resolucion ultra";
     }
 
-    public double cost() {
-        return membresia.cost() + 30.0;
+    /**
+     * Costo.
+     * @return cost.
+     */
+    public final double cost() {
+        return membresia.cost() + COST;
     }
 }

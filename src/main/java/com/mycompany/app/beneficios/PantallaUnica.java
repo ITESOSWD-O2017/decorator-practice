@@ -3,19 +3,42 @@ package com.mycompany.app.beneficios;
 import com.mycompany.app.Beneficios;
 import com.mycompany.app.Membresia;
 
+/**
+ * Una pantalla.
+ */
 public class PantallaUnica extends Beneficios {
 
-    Membresia membresia;
+    /**
+     * Constante costo añadido.
+     */
+    private static final int COST = 10;
 
-    public PantallaUnica (Membresia inMembresia) {
+    /**
+     * Atributo membresia.
+     */
+    private Membresia membresia;
+
+    /**
+     * Constructor default.
+     * @param inMembresia membresia.
+     */
+    public PantallaUnica(final Membresia inMembresia) {
         this.membresia = inMembresia;
     }
 
-    public String getDescription() {
+    /**
+     * Getter descripcion.
+     * @return String Descripccion.
+     */
+    public final String getDescription() {
         return membresia.getDescription() + ", pantalla unica";
     }
 
-    public double cost() {
-        return membresia.cost() + 10.0;
+    /**
+     * Costo.
+     * @return double costo.
+     */
+    public final double cost() {
+        return membresia.cost() + COST;
     }
 }

@@ -25,7 +25,7 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2017</copyright>
     <item>
-      <title>File: 2,
+      <title>File: 22,
              Errors: 0,
              Warnings: 0,
              Infos: 0
@@ -46,6 +46,62 @@ under the License.
           <tbody>
                           <tr>
                 <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.PantallaCuadruple.java">com/mycompany/app/beneficios/PantallaCuadruple.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.PantallaUnica.java">com/mycompany/app/beneficios/PantallaUnica.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.MembresiaUltra.java">com/mycompany/app/MembresiaUltra.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.factories.MembresiaEstandarStore.java">com/mycompany/app/factories/MembresiaEstandarStore.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.App.java">com/mycompany/app/App.java</a>
                 </td>
                 <td>
@@ -60,7 +116,231 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.PantallaDoble.java">com/mycompany/app/beneficios/PantallaDoble.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.factories.MembresiaUltraStore.java">com/mycompany/app/factories/MembresiaUltraStore.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.ResolucionUltra.java">com/mycompany/app/beneficios/ResolucionUltra.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.factories.MembresiaHDStore.java">com/mycompany/app/factories/MembresiaHDStore.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.ResolucionEstandar.java">com/mycompany/app/beneficios/ResolucionEstandar.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.MembresiaGratis.java">com/mycompany/app/MembresiaGratis.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.package-info.java">com/mycompany/app/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.Membresia.java">com/mycompany/app/Membresia.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.DispositivosCuatro.java">com/mycompany/app/beneficios/DispositivosCuatro.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.Beneficios.java">com/mycompany/app/Beneficios.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.factories.package-info.java">com/mycompany/app/factories/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.MembresiaEstandar.java">com/mycompany/app/MembresiaEstandar.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.package-info.java">com/mycompany/app/beneficios/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.MembresiaStore.java">com/mycompany/app/MembresiaStore.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.DispositivosDos.java">com/mycompany/app/beneficios/DispositivosDos.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.beneficios.ResolucionHD.java">com/mycompany/app/beneficios/ResolucionHD.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#com.mycompany.app.MembresiaHD.java">com/mycompany/app/MembresiaHD.java</a>
                 </td>
                 <td>
                   0

@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.11.2">
-<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\mvn-practice\my-app\src\main\java\com\mycompany\app\App.java">
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\App.java">
 </file>
-<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\mvn-practice\my-app\src\main\java\com\mycompany\app\package-info.java">
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\DispositivosCuatro.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\DispositivosDos.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\package-info.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\PantallaCuadruple.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\PantallaDoble.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\PantallaUnica.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\ResolucionEstandar.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\ResolucionHD.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\beneficios\ResolucionUltra.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\Beneficios.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\factories\MembresiaEstandarStore.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\factories\MembresiaHDStore.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\factories\MembresiaUltraStore.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\factories\package-info.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\Membresia.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\MembresiaEstandar.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\MembresiaGratis.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\MembresiaHD.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\MembresiaStore.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\MembresiaUltra.java">
+</file>
+<file name="C:\Users\kzkz9\Desktop\Escuela\5 sem\Diseño de software\Repositorio\decorator-practice\src\main\java\com\mycompany\app\package-info.java">
 </file>
 </checkstyle>

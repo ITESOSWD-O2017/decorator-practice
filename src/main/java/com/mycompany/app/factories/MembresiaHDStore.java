@@ -3,26 +3,42 @@ package com.mycompany.app.factories;
 import com.mycompany.app.Membresia;
 import com.mycompany.app.MembresiaHD;
 import com.mycompany.app.MembresiaStore;
-import com.mycompany.app.beneficios.*;
+import com.mycompany.app.beneficios.PantallaCuadruple;
+import com.mycompany.app.beneficios.PantallaDoble;
+import com.mycompany.app.beneficios.PantallaUnica;
+import com.mycompany.app.beneficios.ResolucionEstandar;
+import com.mycompany.app.beneficios.ResolucionHD;
+import com.mycompany.app.beneficios.ResolucionUltra;
+import com.mycompany.app.beneficios.DispositivosDos;
+import com.mycompany.app.beneficios.DispositivosCuatro;
 
+/**
+ * Membresia HD factory.
+ */
 public class MembresiaHDStore extends MembresiaStore {
-    public Membresia createMembership(String benefit) {
 
-        if(benefit.equals("una pantalla")) {
+    /**
+     * Creador de membresia.
+     * @param benefit Parametro creador.
+     * @return membresia nueva.
+     */
+    public final Membresia createMembership(final String benefit) {
+
+        if (benefit.equals("una pantalla")) {
             return new PantallaUnica(new MembresiaHD());
-        } else if(benefit.equals("dos pantallas")) {
+        } else if (benefit.equals("dos pantallas")) {
             return new PantallaDoble(new MembresiaHD());
-        } else if(benefit.equals("cuatro pantallas")) {
+        } else if (benefit.equals("cuatro pantallas")) {
             return new PantallaCuadruple(new MembresiaHD());
-        } else if(benefit.equals("resolucion estandar")){
+        } else if (benefit.equals("resolucion estandar")) {
             return new ResolucionEstandar(new MembresiaHD());
-        } else if(benefit.equals("resolucion HD")){
+        } else if (benefit.equals("resolucion HD")) {
             return new ResolucionHD(new MembresiaHD());
-        } else if(benefit.equals("resolucion ultra")) {
+        } else if (benefit.equals("resolucion ultra")) {
             return new ResolucionUltra(new MembresiaHD());
-        } else if(benefit.equals("dos dispositivos")) {
+        } else if (benefit.equals("dos dispositivos")) {
             return new DispositivosDos(new MembresiaHD());
-        } else if(benefit.equals("cuatro dispositivos")) {
+        } else if (benefit.equals("cuatro dispositivos")) {
             return new DispositivosCuatro(new MembresiaHD());
         } else {
             return null;

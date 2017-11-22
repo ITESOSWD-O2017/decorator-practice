@@ -3,19 +3,42 @@ package com.mycompany.app.beneficios;
 import com.mycompany.app.Beneficios;
 import com.mycompany.app.Membresia;
 
+/**
+ * Cuatro dispositivos.
+ */
 public class DispositivosCuatro extends Beneficios {
 
-    Membresia membresia;
+    /**
+     * Constante costo.
+     */
+    private static final int COST = 30;
 
-    public DispositivosCuatro (Membresia inMembresia) {
+    /**
+     * Atributo membresia.
+     */
+    private Membresia membresia;
+
+    /**
+     * Constructor default.
+     * @param inMembresia membresia.
+     */
+    public DispositivosCuatro(final Membresia inMembresia) {
         this.membresia = inMembresia;
     }
 
-    public String getDescription() {
+    /**
+     * Getter descripcion.
+     * @return Descripcion.
+     */
+    public final String getDescription() {
         return membresia.getDescription() + ", cuatro dispositivos";
     }
 
-    public double cost() {
-        return membresia.cost() + 30.0;
+    /**
+     * Costo añadido.
+     * @return costo.
+     */
+    public final double cost() {
+        return membresia.cost() + COST;
     }
 }

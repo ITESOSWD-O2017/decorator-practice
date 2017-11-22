@@ -3,19 +3,42 @@ package com.mycompany.app.beneficios;
 import com.mycompany.app.Beneficios;
 import com.mycompany.app.Membresia;
 
+/**
+ * Dos dispositivos.
+ */
 public class DispositivosDos extends Beneficios {
 
-    Membresia membresia;
+    /**
+     * Constante costo añadido.
+     */
+    private static final int COST = 20;
 
-    public DispositivosDos (Membresia inMembresia) {
+    /**
+     * Atributo membresia.
+     */
+    private Membresia membresia;
+
+    /**
+     * Constructor default.
+     * @param inMembresia Crea una membresia.
+     */
+    public DispositivosDos(final Membresia inMembresia) {
         this.membresia = inMembresia;
     }
 
-    public String getDescription() {
+    /**
+     * Getter descripcion.
+     * @return String Descripcion.
+     */
+    public final String getDescription() {
         return membresia.getDescription() + ", dos dispositivos";
     }
 
-    public double cost() {
-        return membresia.cost() + 20.0;
+    /**
+     * Costo añadido.
+     * @return double costo.
+     */
+    public final double cost() {
+        return membresia.cost() + COST;
     }
 }
